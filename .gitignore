@@ -1,4 +1,5 @@
 Raw_Files/*.csv
+Cleaned_Files/*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
