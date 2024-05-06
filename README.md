@@ -1,6 +1,6 @@
 # Module18_Citi_Bike_Dashboard
 
-## Navigate to https://bit.ly/3UmcQdj to view the Tableau Public Dashboard
+## Navigate to https://bit.ly/3UCwnr7 to view the Tableau Public Dashboard
 ## Data Cleaning Scripts are located in GitHub in Jupyter Notebook Folder - I primarily created one file - csw1nk_tableau_data for injestion into Tableau Public. I performed a few calculations in pandas, for example trip duration before loading.
 
 ## Map Write Up
